@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://ankitkj1999.github.io/mcqNinja/"
+baseurl = "../"
 # baseurl = "https://demo.stack.jimmycai.com"
 languageCode = "en-us"
 paginate = 5
